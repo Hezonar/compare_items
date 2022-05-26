@@ -10,7 +10,7 @@ You need to load model or train, after that you can run main.py and drop your js
 {
 	"original_goods": {
 		"name": "... (text)",
-		"image": "... (from url or path ex. www\.../.../123.jpg)",
+		"image": "... (from url or path ex. 123.jpg)",
 		"description": "... (text)",
 		"price": "... (float)"
 	},
