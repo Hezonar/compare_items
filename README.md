@@ -7,22 +7,22 @@ You need to load model or train, after that you can run main.py and drop your js
 
 # Your json struct 
 
-{
-	"original_goods": {
-		"name": "... (text)",
-		"image": "... (from url or path ex. 123.jpg)",
-		"description": "... (text)",
-		"price": "... (float)"
-	},
-	"other_goods": \[
-		{
-			"ads_id": "... (ID of the compared items)",
-			"name": "... (text)",
-			"image": "....(from url or path ex. 123.jpg)",
-			"price": "... (float)",
-			"description": "...(text)"
-		},
-    ...
-  ]
-}
+{\n
+	\n"original_goods": {
+	\n	"name": "... (text)",
+	\n	"image": "... (from url or path ex. 123.jpg)",
+	\n	"description": "... (text)",
+	\n	"price": "... (float)"
+	\n},
+	\n"other_goods": \[
+	\n	{
+	\n		"ads_id": "... (ID of the compared items)",
+	\n		"name": "... (text)",
+	\n		"image": "....(from url or path ex. 123.jpg)",
+	\n		"price": "... (float)",
+	\n		"description": "...(text)"
+	\n	},
+    \n...
+ \n ]
+\n}
 
